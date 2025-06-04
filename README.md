@@ -11,8 +11,6 @@ by M. Akin Yilmaz, Ahmet Bilican, and A. Murat Tekalp
 ## Citation
 If you find this repository helpful, please use the following BibTeX for citation.
 
-:
-
 ```tex
 @misc{yilmaz2025dimosrfeaturemodulationmultibranch,
       title={DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution}, 
