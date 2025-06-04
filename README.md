@@ -6,5 +6,3 @@ This repository contains the official implementation of the paper:
 by M. Akin Yilmaz, Ahmet Bilican, and A. Murat Tekalp
 
 [arXiv preprint](https://arxiv.org/pdf/2505.21262)
-
-Training / Testing codes and pretrained model weights will be available soon !
